@@ -32,7 +32,7 @@ var threeSum = function(nums) {
                 break;
             }
 
-			// 找出符合 left + mid = target
+            // 找出符合 left + mid = target
             let target = (nums[left] + nums[mid]) * -1;
 
             // 檢查是否有 target 值存在，又因 set 相同值只會存一次，故需要另外檢查 mid 和 target 相同值的狀況
@@ -46,7 +46,7 @@ var threeSum = function(nums) {
             }
         }
         
-		//略過相同的 left 數，避免下輪拿到相同的值
+        //略過相同的 left 數，避免下輪拿到相同的值
         while (left + 2 < len && nums[left] === nums[left + 1]) {
                 left ++;
         }
