@@ -4,9 +4,9 @@
  */
 var numEquivDominoPairs = function(dominoes) {
     const len = dominoes.length;
-    
+
     let count = 0;
-    
+
     for(let i = 0; i < len - 1; i++) {
 
         for(let j = i + 1; j < len; j++) {
@@ -20,6 +20,6 @@ var numEquivDominoPairs = function(dominoes) {
             }
         }
     }
-    
+
     return count;
 };
