@@ -6,7 +6,7 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
- 
+
 var threeSum = function(nums) {
 
     const
@@ -18,7 +18,7 @@ var threeSum = function(nums) {
         left = 0, mid = 1;
 
     nums.sort((a, b) => a - b);
-    
+
     // 至少三個元素，且第一位必須為負數
     if (len < 3 || nums[0] > 0) {
         return [];
@@ -45,7 +45,7 @@ var threeSum = function(nums) {
                 mid ++;
             }
         }
-        
+
         //略過相同的 left 數，避免下輪拿到相同的值
         while (left + 2 < len && nums[left] === nums[left + 1]) {
                 left ++;

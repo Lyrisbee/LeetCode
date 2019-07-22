@@ -15,16 +15,16 @@ var maxAbsValExpr = function(arr1, arr2) {
             if (i === j) {
                 break;
             }
-            
+
             let value = Math.abs(arr1[i] - arr1[j]) + Math.abs(arr2[i] - arr2[j]) + Math.abs(i - j);
-            
+
             if (value > max) {
                 max = value;
             }
-            
+
         }
     }
-    
+
     return max;
-    
+
 };
