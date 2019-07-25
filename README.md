@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 | :---: | :-----: | :--------: | :----------: |
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JS](./Algorithms/Medium/43-Multiply-Strings.js)|Medium|
 |15|[3 Sum](https://leetcode.com/problems/3sum/)| [JS](./Algorithms/Medium/15-3sum.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [JS](./Algorithms/Easy/7-reverse-integer.js)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [JS](./Algorithms/Medium/5-Longest-Palindromic-Substring.js)|Medium|
