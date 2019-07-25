@@ -4,14 +4,12 @@
  * @return {number}
  */
 var maxAbsValExpr = function(arr1, arr2) {
-    const
-        len1 = arr1.length,
+    const len1 = arr1.length,
         len2 = arr2.length;
-    let
-        max = 0;
+    let max = 0;
 
-    for (let i = 0; i < len1; i ++) {
-        for (let j = 0; j < len2; j ++) {
+    for (let i = 0; i < len1; i++) {
+        for (let j = 0; j < len2; j++) {
             if (i === j) {
                 break;
             }
@@ -21,10 +19,8 @@ var maxAbsValExpr = function(arr1, arr2) {
             if (value > max) {
                 max = value;
             }
-
         }
     }
 
     return max;
-
 };

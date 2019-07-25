@@ -22,17 +22,18 @@
  * 2. P[left+1] === P[right-1] 或 left + 1 >= right -1 ([0][0], [0][1] 只要檢查值是否一樣)
  */
 var longestPalindrome = function(s) {
-    const
-        len = s.length,
-        isPalindromic = [...Array(len)].map(x => Array(len).fill(false)) ;
+    const len = s.length,
+        isPalindromic = [...Array(len)].map((x) => Array(len).fill(false));
 
-    let
-        start = 0,
+    let start = 0,
         max = 1;
 
-    for (let right = 1; right < len; right ++) {
-        for (let left = right - 1; left >= 0; left --) {
-            if ((left + 1 >= right - 1 || isPalindromic[left+1][right-1]) && s.substr(left, 1) === s.substr(right, 1)) {
+    for (let right = 1; right < len; right++) {
+        for (let left = right - 1; left >= 0; left--) {
+            if (
+                (left + 1 >= right - 1 || isPalindromic[left + 1][right - 1]) &&
+                s.substr(left, 1) === s.substr(right, 1)
+            ) {
                 isPalindromic[left][right] = true;
                 if (right - left + 1 > max) {
                     max = right - left + 1;
