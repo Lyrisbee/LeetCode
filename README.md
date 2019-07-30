@@ -13,7 +13,8 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [JS](./Algorithms/Hard/4-Median-of-Two-Sorted-Arrays.js)|Hard|
 
 ### LeetCode Contest
-| # | Title | Solution | Difficulty |
-| :---: | :---: | :--------: | :----------: |
-|5133|[Maximum of Absolute Value Expression](https://leetcode.com/contest/weekly-contest-146/problems/maximum-of-absolute-value-expression/)| [JS](./Algorithms/Medium/5133-Maximum-of-Absolute-Value-Expression.js)|Medium|
-|5130|[Number of Equivalent Domino Pairs](https://leetcode.com/contest/weekly-contest-146/problems/number-of-equivalent-domino-pairs/)| [JS](./Algorithms/Easy/5130-Number-of-Equivalent-Domino-Pairs.js)|Easy|
+| # | Contest | Title | Solution | Difficulty |
+| :---: | :---: | :---: | :--------: | :----------: |
+|1137|147|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [JS](./Algorithms/Easy/1137-N-th-Tribonacci-Number.js)|Easy|
+|5133|146|[Maximum of Absolute Value Expression](https://leetcode.com/contest/weekly-contest-146/problems/maximum-of-absolute-value-expression/)| [JS](./Algorithms/Medium/5133-Maximum-of-Absolute-Value-Expression.js)|Medium|
+|5130|146|[Number of Equivalent Domino Pairs](https://leetcode.com/contest/weekly-contest-146/problems/number-of-equivalent-domino-pairs/)| [JS](./Algorithms/Easy/5130-Number-of-Equivalent-Domino-Pairs.js)|Easy|
