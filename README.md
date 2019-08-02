@@ -6,6 +6,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 | :---: | :-----: | :--------: | :----------: |
 |771|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)| [JS](./Algorithms/Easy/771-Jewels-And-Stones.js)|Easy|
+|468|[Validate Ip Address](https://leetcode.com/problems/validate-ip-address/)| [JS](./Algorithms/Medium/468-Validate-Ip-Address.js)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [JS](./Algorithms/Medium/43-Multiply-Strings.js)|Medium|
 |15|[3 Sum](https://leetcode.com/problems/3sum/)| [JS](./Algorithms/Medium/15-3sum.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [JS](./Algorithms/Easy/7-Reverse-Integer.js)|Easy|
