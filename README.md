@@ -20,6 +20,9 @@ LeetCode
 ### LeetCode Contest
 | # | Contest | Title | Solution | Difficulty |
 | :---: | :---: | :---: | :--------: | :----------: |
+|1147|148|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)| [JS](./Algorithms/Hard/1147-Longest-Chunked-Palindrome-Decomposition.js)|Hard|
+|1146|148|[Snapshot Array](https://leetcode.com/contest/weekly-contest-148/problems/snapshot-array/)| [JS](./Algorithms/Medium/1146-Snapshot-Array.js)|Medium|
+|1144|148|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)| [JS](./Algorithms/Medium/1144-Decrease-Elements-To-Make-Array-Zigzag.js)|Medium|
 |1138|147|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/)| [JS](./Algorithms/Medium/1138-Alphabet-Board-Path.js)|Medium|
 |1137|147|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [JS](./Algorithms/Easy/1137-N-th-Tribonacci-Number.js)|Easy|
 |5133|146|[Maximum of Absolute Value Expression](https://leetcode.com/contest/weekly-contest-146/problems/maximum-of-absolute-value-expression/)| [JS](./Algorithms/Medium/5133-Maximum-of-Absolute-Value-Expression.js)|Medium|
