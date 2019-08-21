@@ -20,6 +20,9 @@ LeetCode
 ### LeetCode Contest
 | # | Contest | Title | Solution | Difficulty |
 | :---: | :---: | :---: | :--------: | :----------: |
+|1162|150|[As Far from Land as Possible](https://leetcode.com/contest/weekly-contest-150/problems/as-far-from-land-as-possible/)| [JS](./Algorithms/Medium/1162-As-Far-from-Land-as-Possible.js)|Medium|
+|1161|150|[Maximum Level Sum of a Binary Tree](https://leetcode.com/contest/weekly-contest-150/problems/maximum-level-sum-of-a-binary-tree/)| [JS](./Algorithms/Medium/1161-Maximum-Level-Sum-of-a-Binary-Tree.js)|Medium|
+|1160|150|[Find Words That Can Be Formed by Characters](https://leetcode.com/contest/weekly-contest-150/problems/find-words-that-can-be-formed-by-characters/)| [JS](./Algorithms/Medium/1160-Find-Words-That-Can-Be-Formed-by-Characters.js)|Easy|
 |1147|148|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)| [JS](./Algorithms/Hard/1147-Longest-Chunked-Palindrome-Decomposition.js)|Hard|
 |1146|148|[Snapshot Array](https://leetcode.com/contest/weekly-contest-148/problems/snapshot-array/)| [JS](./Algorithms/Medium/1146-Snapshot-Array.js)|Medium|
 |1144|148|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)| [JS](./Algorithms/Medium/1144-Decrease-Elements-To-Make-Array-Zigzag.js)|Medium|
