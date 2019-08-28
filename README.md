@@ -20,6 +20,10 @@ LeetCode
 ### LeetCode Contest
 | # | Contest | Title | Solution | Difficulty |
 | :---: | :---: | :---: | :--------: | :----------: |
+|1172|151|[Dinner Plate Stacks](https://leetcode.com/contest/weekly-contest-151/problems/dinner-plate-stacks/)| [JS](./Algorithms/Hard/1172-Dinner-Plate-Stacks.js)|Hard|
+|1171|151|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/contest/weekly-contest-151/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)| [JS](./Algorithms/Medium/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List.js)|Medium|
+|1170|151|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/contest/weekly-contest-151/problems/compare-strings-by-frequency-of-the-smallest-character/)| [JS](./Algorithms/Easy/1170-Compare-Strings-by-Frequency-of-the-Smallest-Character.js)|Easy|
+|1169|151|[Invalid Transactions](https://leetcode.com/contest/weekly-contest-151/problems/invalid-transactions/)| [JS](./Algorithms/Medium/1169-Invalid-Transactions.js)|Medium|
 |1162|150|[As Far from Land as Possible](https://leetcode.com/contest/weekly-contest-150/problems/as-far-from-land-as-possible/)| [JS](./Algorithms/Medium/1162-As-Far-from-Land-as-Possible.js)|Medium|
 |1161|150|[Maximum Level Sum of a Binary Tree](https://leetcode.com/contest/weekly-contest-150/problems/maximum-level-sum-of-a-binary-tree/)| [JS](./Algorithms/Medium/1161-Maximum-Level-Sum-of-a-Binary-Tree.js)|Medium|
 |1160|150|[Find Words That Can Be Formed by Characters](https://leetcode.com/contest/weekly-contest-150/problems/find-words-that-can-be-formed-by-characters/)| [JS](./Algorithms/Medium/1160-Find-Words-That-Can-Be-Formed-by-Characters.js)|Easy|
